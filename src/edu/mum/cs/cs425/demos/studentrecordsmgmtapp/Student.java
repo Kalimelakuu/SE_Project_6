@@ -3,8 +3,8 @@ package edu.mum.cs.cs425.demos.studentrecordsmgmtapp;
 import java.time.LocalDate;
 
 /**
- * Author: Kuylim TITH
- * Date: 8/26/2023
+ * Author: Kalkidan Melaku Hailemariam
+ * Date: 8/27/2023
  */
 public class Student {
 
