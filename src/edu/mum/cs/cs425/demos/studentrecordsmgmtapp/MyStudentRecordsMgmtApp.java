@@ -7,8 +7,8 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Author: Kuylim TITH
- * Date: 8/26/2023
+ * Author: Kalkidan Melaku Hailemariam
+ * Date: 8/27/2023
  */
 public class MyStudentRecordsMgmtApp {
     public static void main(String[] args) {
